@@ -1,2 +1,2 @@
 # clickerTrainer
-projet react native
+react native project
